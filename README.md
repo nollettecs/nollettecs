@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile!
 
-Hi there! I'm Cole Nollette, a passionate data enthusiast with a focus on Python programming and Jupyter Notebooks, while furthering my education in further Data Analytic skills!!
+Hi there! I'm Cole Nollette, a passionate data enthusiast with a focus on Python programming and Jupyter Notebooks, while furthering my education in a variety of Data Analytic skills!!
 
 ## 🔧 Skills
 
