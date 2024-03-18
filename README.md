@@ -8,7 +8,7 @@ Hi there! I'm Cole Nollette, a passionate data enthusiast with a focus on Python
 
 - **Programming Languages:** Python
 - **Data Analysis Tools:** Jupyter Notebook, Pandas, NumPy
-- **Visualization:** Matplotlib, Seaborn
+- **Visualization:** Matplotlib, Seaborn, Plotly
 - **Code Editor:** VS Code
 
 ## 🤝 Open to Collaboration
