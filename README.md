@@ -7,7 +7,7 @@ Hi there! I'm Cole Nollette, a passionate data enthusiast with a focus on Python
 ## 🔧 Skills
 
 - **Programming Languages:** Python
-- **Data Analysis Tools:** Jupyter Notebook, Pandas, NumPy
+- **Data Analysis Tools:** Jupyter Notebook, Pandas, NumPy, Shiny
 - **Visualization:** Matplotlib, Seaborn, Plotly
 - **Code Editor:** VS Code
 
