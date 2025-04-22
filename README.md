@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile!
 
-Hi there! I'm **Cole Nollette**, a passionate data enthusiast currently completing my Master’s in Data Analytics. I enjoy exploring real-world problems using data and building projects that blend statistical thinking with technical skills. My work often focuses on topics like housing affordability, financial trends, and predictive modeling — all powered by Python and a growing suite of analytics tools.
+Hi there! I'm **Cole Nollette**, a passionate data enthusiast with my Master’s in Data Analytics. I enjoy exploring real-world problems using data and building projects that blend statistical thinking with technical skills. My work often focuses on topics like housing affordability, financial trends, and predictive modeling — all powered by Python and a growing suite of analytics tools.
 
 ## 🔧 Skills
 
